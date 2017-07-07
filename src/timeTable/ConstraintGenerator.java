@@ -1,3 +1,4 @@
+package timeTable;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -105,7 +106,7 @@ public class ConstraintGenerator {
 	 * At most once
 	 */
 	void noLessonIsScheduledMoreThanOnce(){
-		
+		//TODO fill this in
 	}
 	
 }
