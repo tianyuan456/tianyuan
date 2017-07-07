@@ -21,4 +21,12 @@ public abstract class Formula {
 		return makeString();
 	}
 	
+	/// NEXT
+	// public String toTPTP();
+	
+	// NEXT
+	// Factory Methods
+	// e.g.
+	// Formula.and(a,b);
+	
 }
